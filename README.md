@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=900&size=21&pause=1500&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Mateo+Spatola;I’m+a+Full-Stack+Developer" alt="Typing SVG"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateospatola/" target="_blank">
